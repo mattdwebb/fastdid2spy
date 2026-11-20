@@ -1,0 +1,9 @@
+{
+  "package": "fastdid2spy",
+  "estimate": 2.3168691127574865,
+  "native_se": 0.2853751403485725,
+  "jackknife_se": 0.33681393470216353,
+  "jackknife_p": 2.6609947605271404e-05,
+  "clusters": 12,
+  "jackknife_df": 11
+}
